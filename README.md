@@ -5,8 +5,12 @@ Contents
 This repository includes the following:
 
 Project Folders: Each project has its own folder containing all relevant files.
+
 Schematics: .sch files for schematic diagrams.
+
 Board Layouts: .brd files for PCB layouts.
+
 Gerber Files: Generated Gerber files for manufacturing.
+
 Bill of Materials (BOM): Lists of components used in each project.
 
